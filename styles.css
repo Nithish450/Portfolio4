@@ -18,7 +18,7 @@
         position: sticky;
         background-color: rgb(8,27,41);
         height: 60px;
-        width: 1060px;
+        width:100%;
         top:0px;
         z-index: 10;
         display: flex;
