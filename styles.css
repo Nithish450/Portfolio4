@@ -21,7 +21,8 @@
         width: 1060px;
         top:0px;
         z-index: 10;
-    
+        display: flex;
+        text-align: center;
     }
   }
 #home{
@@ -38,7 +39,7 @@
 @media only screen and (max-width: 480px) {
     #home{
         position: absolute;
-        left:20px;
+        left:250px;
         font-size:40px;
         color: white;
         text-decoration: none;
@@ -59,7 +60,7 @@
 @media only screen and (max-width:480px) {
     #about{
         position: absolute;
-        left:160px;
+        left:410px;
         font-size:40px;
         color: white;
         text-decoration: none;
@@ -75,7 +76,7 @@
 @media only screen and (max-width: 480px) {
     #skills{
         position: absolute;
-        left:310px;
+        left:580px;
         font-size:40px;
         color: white;
         text-decoration: none;
@@ -97,7 +98,7 @@
 @media only screen and (max-width: 480px) {
     #projects{
         position: absolute;
-        left:450px;
+        left:740px;
         font-size:40px;
         color: white;
         text-decoration: none;
@@ -116,7 +117,7 @@
 @media only screen and (max-width: 480px) {
     #certifications{
         position: absolute;
-        left: 630px;
+        left: 930px;
         font-size:40px;
         color: white;
         text-decoration: none;
@@ -136,7 +137,7 @@
     #contact
     {
         position: absolute;
-        left: 900px;
+        left: 1200px;
         font-size:40px;
         color: white;
         text-decoration: none;
